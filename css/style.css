@@ -4,7 +4,7 @@ h1{
 
 .block-1{
     display: flex;
-    height: 600px;
+    height: 660px;
     border: 1px solid red;
     align-items: flex-end;
 }
@@ -40,4 +40,9 @@ h1{
 
  .blue{
     background: blue; 
+ }
+
+ .top{
+    align-self: flex-start;
+    
  }
