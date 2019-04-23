@@ -7,6 +7,7 @@ h1{
     height: 660px;
     border: 1px solid red;
     align-items: flex-end;
+    flex-direction: column;
 }
 
 .box{
